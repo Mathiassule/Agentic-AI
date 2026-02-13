@@ -1,0 +1,6 @@
+.vscode/mcp.json
+/venv/
+/a2a-samples/
+.ai agents/practice/
+venv/
+mcp-context-sharing/src/server/index.html
