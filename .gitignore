@@ -4,3 +4,4 @@
 .ai agents/practice/
 venv/
 mcp-context-sharing/src/server/index.html
+Streamlitwebinterface/.env
